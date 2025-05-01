@@ -1,0 +1,9 @@
+Include your web screenshot and mobile screenshot of your responsive scatterplot visualization. You can simply upload these to the GitHub classroom repo and call them “screenshot-web.png” and “screenshot-mobile.png”.
+How long did this take (estimate)?
+This took about 6 hours.
+What were the enjoyable aspects of the lab?
+It was fun to see the node visualization come together because of how dynamic it was.
+What were the challenging parts of this lab?
+The challenging part of the lab was doing the part where the graph is re-sized for the shrinking screen.
+What resources did you use? Include links to websites below. 
+None-N/A
